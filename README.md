@@ -1,1 +1,1 @@
-# JavaScript-Resources
+# JavaScript Resources Compilation
